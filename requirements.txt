@@ -1,0 +1,5 @@
+streamlit
+pandas==2.1.2
+matplotlib.pyplot
+numpy==1.26.1
+pip==23.3.2
